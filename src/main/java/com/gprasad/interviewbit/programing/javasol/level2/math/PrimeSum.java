@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Map;
 
 /*
+InterviewBit Java Solution : Prime Sum (https://www.interviewbit.com/problems/prime-sum/)
+
 Given an even number ( greater than 2 ), return two prime numbers whose sum will be equal to given number.
 
 NOTE A solution will always exist. read Goldbach’s conjecture
